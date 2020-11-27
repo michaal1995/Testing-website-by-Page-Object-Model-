@@ -1,4 +1,4 @@
-# Testing-website-by-Page-Object-Model-
+# Testing-website-by-Page-Object-Model
 Project of testing website using Python, Senenium, Page Object Model and unittest
 
 Requirements:
